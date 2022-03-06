@@ -1,6 +1,6 @@
 
 export interface AuthState {
-    auth: boolean;
+    isAuth: boolean;
 }
 
 export enum AuthActionEnum {
